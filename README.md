@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Şu anda angular öğrenmeye çalşıyorum ve temel yapılarını öğrenmeye çalışıyorum. 
-- 🌱 Şu anda angular öğrenmeye çalşıyorum.
+- 🔭 Şu anda anguların temel yapılarını öğrenmeye çalışıyorum.
+- 🌱 Şu anda angular öğrenmeye çalışıyorum.
 - 📫 Email:smyyydn8@gmail.com
 - 😄Kadın
 - ⚡ Türkiye Taekwondo Federasyonu Lisanslı Sporcu
